@@ -11,6 +11,17 @@
   will-change: filter;
   transition: filter 300ms;
 }
+
+.discord-logo{
+  margin-top: 5px;
+  height: 40px;
+  width: auto;
+  
+}
+.info > h1 {
+  width: 20%;
+}
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
